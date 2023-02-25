@@ -1,4 +1,4 @@
-# Object_classifier
+# ResNet_DenseNet_Object_classifier
 ResNet and DenseNet model for object classification for the CIFAR-10 Dataset<br>
 These are deep CNN models. <br>
 ResNet is a neural network architecture that uses skip connections to allow gradients to flow more easily during training, <br>
