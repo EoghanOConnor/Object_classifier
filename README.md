@@ -6,4 +6,3 @@ enabling deeper networks to be trained. DenseNet is a neural network architectur
 resulting in dense connections that allow information to flow more easily between layers.<br>
 
 ![image](https://user-images.githubusercontent.com/45408401/221373562-7462a6b2-1d59-4daa-b856-25cb5f456f75.png)
-(image provided by: https://gaussian37.github.io/dl-concept-densenet/)
